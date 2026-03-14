@@ -1,5 +1,8 @@
 <h1 align="center">Привет 👋, меня зовут Элмирбек</h1>
-<h3 align="center">Python Backend Developer & Machine Learning Engineer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Backend+Developer;Machine+Learning+Engineer;FastAPI+%7C+Django+%7C+PostgreSQL;AI+%26+Backend+Solutions" />
+</p>
 
 ---
 
@@ -14,56 +17,57 @@
 
 ---
 
-## 🚀 Технологии и инструменты
+# 🚀 Tech Stack
 
-### Backend Development
-- Python  
-- FastAPI  
-- Django  
-- Django REST Framework  
-- REST API  
-- SQLAlchemy  
-- Pydantic  
-
-### Machine Learning
-- Scikit-learn  
-- TensorFlow  
-- PyTorch  
-- Pandas  
-- NumPy  
-- OpenCV  
-
-### Databases
-- PostgreSQL  
-- MySQL  
-- SQLite  
-- Redis  
-
-### DevOps & Tools
-- Docker  
-- Linux  
-- Git  
-- GitHub  
-- Nginx  
-- AWS  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,redis,docker,linux,git,github,nginx,aws,pytorch,tensorflow" />
+</p>
 
 ---
 
-## 📊 Статистика GitHub
+# 📊 GitHub статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elmirbek-ai&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=elmirbek-ai&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmirbek-ai&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=elmirbek-ai&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmirbek-ai&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Контакты
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=elmirbek-ai&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elmirbek-ai&theme=tokyo-night" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/elmirbek-ai/elmirbek-ai/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=elmirbek-ai&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 📫 Контакты
 
 - 📩 Email: elmirbektoktoraliev06@gmail.com  
 - 💬 Telegram: https://t.me/elmirbek1  
