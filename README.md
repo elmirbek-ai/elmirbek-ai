@@ -53,12 +53,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/elmirbek-ai/elmirbek-ai/blob/output/github-contribution-grid-snake.svg)
-
----
-
 # 👀 Visitor Counter
 
 <p align="center">
