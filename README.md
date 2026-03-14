@@ -17,35 +17,35 @@
 ## 🚀 Технологии и инструменты
 
 ### Backend Development
-- Python
-- FastAPI
-- Django
-- Django REST Framework
-- REST API
-- SQLAlchemy
-- Pydantic
+- Python  
+- FastAPI  
+- Django  
+- Django REST Framework  
+- REST API  
+- SQLAlchemy  
+- Pydantic  
 
 ### Machine Learning
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- Pandas
-- NumPy
-- OpenCV
+- Scikit-learn  
+- TensorFlow  
+- PyTorch  
+- Pandas  
+- NumPy  
+- OpenCV  
 
 ### Databases
-- PostgreSQL
-- MySQL
-- SQLite
-- Redis
+- PostgreSQL  
+- MySQL  
+- SQLite  
+- Redis  
 
 ### DevOps & Tools
-- Docker
-- Linux
-- Git
-- GitHub
-- Nginx
-- AWS
+- Docker  
+- Linux  
+- Git  
+- GitHub  
+- Nginx  
+- AWS  
 
 ---
 
@@ -65,9 +65,9 @@
 
 ## 📫 Контакты
 
-- Telegram: https://t.me/elmirbek1  
-- Instagram: https://instagram.com/elmirbek1.77  
-- Email: elmirbektoktoraliev06@gmail.com  
+- 📩 Email: elmirbektoktoraliev06@gmail.com  
+- 💬 Telegram: https://t.me/elmirbek1  
+- 📷 Instagram: https://instagram.com/elmirbek1.77  
 
 ---
 
