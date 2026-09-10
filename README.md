@@ -70,12 +70,6 @@ A full-stack restaurant-service MVP built around table QR codes.
 - Telegram bots, automation, and AI-assisted services
 - Team coordination, task decomposition, code review, and product delivery
 
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmirbek-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Elmirbek's GitHub statistics" />
-</p>
-
 ## Contact
 
 - LinkedIn: [elmirbek-toktoraliev](https://www.linkedin.com/in/elmirbek-toktoraliev/)
