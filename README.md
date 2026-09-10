@@ -1,72 +1,88 @@
-<h1 align="center">Привет 👋, меня зовут Элмирбек</h1>
+<h1 align="center">Hi, I'm Elmirbek Toktoraliev 👋</h1>
+
+<h3 align="center">Python Backend Developer · AI/ML Engineer · Team Lead</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Backend+Developer;Machine+Learning+Engineer;FastAPI+%7C+Django+%7C+PostgreSQL;AI+%26+Backend+Solutions" />
-</p>
-
----
-
-## 👨‍💻 Обо мне
-
-Я разработчик, специализирующийся на backend разработке и машинном обучении.
-
-- 🔹 Разрабатываю REST API и backend системы на Python  
-- 🔹 Создаю решения на основе Machine Learning и AI  
-- 🔹 Работаю с FastAPI, Django и базами данных  
-- 🔹 Постоянно изучаю новые технологии и архитектуру систем  
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,redis,docker,linux,git,github,nginx,aws,pytorch,tensorflow" />
-</p>
-
----
-
-# 📊 GitHub статистика
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=elmirbek-ai&show_icons=true&theme=tokyonight" />
+  I build reliable backend systems, REST APIs, automation tools, and products powered by machine learning.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmirbek-ai&layout=compact&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/elmirbek-toktoraliev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/elmirbek1">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:elmirbektoktoraliev06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
----
+## About me
 
-# 🔥 GitHub Streak
+- Backend-focused software engineer based in Kyrgyzstan
+- Building APIs and business systems with **Python, Django REST Framework, and FastAPI**
+- Integrating **machine learning and AI** into practical products
+- Team Lead at **Motion Community**, helping developers collaborate on real projects
+- Interested in backend architecture, product engineering, automation, and production-ready systems
+
+## Featured project
+
+### [Dastorkon — QR restaurant ordering system](https://github.com/elmirbek-ai/Dastorkon)
+
+A full-stack restaurant-service MVP built around table QR codes.
+
+- Customers browse a bilingual menu, place orders, track progress, and call a waiter without registration
+- Separate interfaces and permissions for Admin, Waiter, Kitchen, and Customer roles
+- Real-time order updates through WebSockets with polling fallback
+- Documented API, production-readiness guides, health checks, Docker Compose, and automated validation
+
+**Stack:** Python · Django · Django REST Framework · React · PostgreSQL · Redis · WebSockets · Docker · Nginx
+
+> More projects are being documented and prepared for public release.
+
+## Tech stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi" alt="Python, Django and FastAPI" />
+</p>
+
+### Databases and infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,nginx,linux" alt="Databases and infrastructure" />
+</p>
+
+### AI/ML and tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github" alt="AI, machine learning and development tools" />
+</p>
+
+## What I work with
+
+- REST API design, authentication, permissions, filtering, validation, and documentation
+- PostgreSQL data modeling and transactional business logic
+- Docker-based environments, Linux servers, Nginx, and deployment workflows
+- Machine-learning model training and integration into backend services
+- Telegram bots, automation, and AI-assisted services
+- Team coordination, task decomposition, code review, and product delivery
+
+## GitHub activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=elmirbek-ai&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elmirbek-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Elmirbek's GitHub statistics" />
 </p>
 
----
+## Contact
 
-# 📈 Activity Graph
+- LinkedIn: [elmirbek-toktoraliev](https://www.linkedin.com/in/elmirbek-toktoraliev/)
+- Telegram: [@elmirbek1](https://t.me/elmirbek1)
+- Instagram: [@elmirbek.toktoraliev](https://www.instagram.com/elmirbek.toktoraliev/)
+- Email: [elmirbektoktoraliev06@gmail.com](mailto:elmirbektoktoraliev06@gmail.com)
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elmirbek-ai&theme=tokyo-night" />
+  <strong>Open to collaboration on backend, AI/ML, and automation products.</strong>
 </p>
-
----
-
-# 👀 Visitor Counter
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=elmirbek-ai&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# 📫 Контакты
-
-- 📩 Email: elmirbektoktoraliev06@gmail.com  
-- 💬 Telegram: https://t.me/elmirbek1  
-- 📷 Instagram: https://instagram.com/elmirbek1.77  
-
----
-
-⭐ Открыт для сотрудничества и интересных проектов
