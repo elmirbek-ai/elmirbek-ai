@@ -3,80 +3,78 @@
 <h3 align="center">Python Backend Developer · AI/ML Engineer · Team Lead</h3>
 
 <p align="center">
-  I build reliable backend systems, REST APIs, automation tools, and products powered by machine learning.
+  I build backend systems that turn complex business workflows into reliable, maintainable products.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elmirbek-toktoraliev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/elmirbek1">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:elmirbektoktoraliev06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ## About me
 
-- Backend-focused software engineer based in Kyrgyzstan
-- Building APIs and business systems with **Python, Django REST Framework, and FastAPI**
-- Integrating **machine learning and AI** into practical products
-- Team Lead at **Motion Community**, helping developers collaborate on real projects
-- Interested in backend architecture, product engineering, automation, and production-ready systems
+I am a backend-focused software engineer from Kyrgyzstan working with **Python, Django REST Framework, and FastAPI**.
+
+I build more than basic CRUD applications: my projects include role-based access, transactional business logic, real-time updates, documented APIs, machine-learning integrations, testing, and deployment infrastructure.
+
+As a **Team Lead at Motion Community**, I turn product requirements into technical tasks, coordinate developers, review implementation decisions, and help the team deliver real products.
 
 ## Featured project
 
-### [Dastorkon — QR restaurant ordering system](https://github.com/elmirbek-ai/Dastorkon)
+### [Dastorkon — QR restaurant ordering platform](https://github.com/elmirbek-ai/Dastorkon)
 
-A full-stack restaurant-service MVP built around table QR codes.
+Dastorkon brings customers, waiters, kitchen staff, and administrators into one connected restaurant workflow.
 
-- Customers browse a bilingual menu, place orders, track progress, and call a waiter without registration
-- Separate interfaces and permissions for Admin, Waiter, Kitchen, and Customer roles
-- Real-time order updates through WebSockets with polling fallback
-- Documented API, production-readiness guides, health checks, Docker Compose, and automated validation
+| Product area | What I built |
+| --- | --- |
+| Customer | Bilingual QR menu, cart, ordering, live status tracking, and waiter calls without registration |
+| Staff | Separate Admin, Waiter, and Kitchen interfaces with role-based permissions |
+| Backend | Transactional table sessions, order lifecycle, price snapshots, validation, JWT authentication, and REST API |
+| Real-time | Authenticated WebSocket notifications with polling fallback |
+| Delivery | Tests, Swagger documentation, health checks, Docker Compose, Nginx, and Ubuntu deployment guides |
 
-**Stack:** Python · Django · Django REST Framework · React · PostgreSQL · Redis · WebSockets · Docker · Nginx
+**Stack:** Python · Django · DRF · React · PostgreSQL · Redis · WebSockets · Docker · Nginx
 
-> More projects are being documented and prepared for public release.
+## Technical focus
 
-## Tech stack
+- **Backend:** Python, Django, Django REST Framework, FastAPI, SQLAlchemy
+- **Databases:** PostgreSQL, MySQL, SQLite, Redis
+- **AI/ML:** PyTorch, TensorFlow, scikit-learn, NLP, computer vision
+- **Infrastructure:** Docker, Linux, Nginx, GitHub Actions
+- **Engineering:** REST APIs, JWT/OAuth, WebSockets, testing, documentation, deployment
 
-### Backend
+## How I work
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi" alt="Python, Django and FastAPI" />
-</p>
+- Model business rules clearly before writing endpoints
+- Keep critical logic in tested backend services
+- Design APIs that frontend developers can integrate without guesswork
+- Treat security, observability, and deployment as part of the product
+- Choose technology for the problem—not for the résumé
 
-### Databases and infrastructure
+## Current focus
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,nginx,linux" alt="Databases and infrastructure" />
-</p>
-
-### AI/ML and tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github" alt="AI, machine learning and development tools" />
-</p>
-
-## What I work with
-
-- REST API design, authentication, permissions, filtering, validation, and documentation
-- PostgreSQL data modeling and transactional business logic
-- Docker-based environments, Linux servers, Nginx, and deployment workflows
-- Machine-learning model training and integration into backend services
-- Telegram bots, automation, and AI-assisted services
-- Team coordination, task decomposition, code review, and product delivery
-
-## Contact
-
-- LinkedIn: [elmirbek-toktoraliev](https://www.linkedin.com/in/elmirbek-toktoraliev/)
-- Telegram: [@elmirbek1](https://t.me/elmirbek1)
-- Instagram: [@elmirbek.toktoraliev](https://www.instagram.com/elmirbek.toktoraliev/)
-- Email: [elmirbektoktoraliev06@gmail.com](mailto:elmirbektoktoraliev06@gmail.com)
+- Preparing Dastorkon for production deployment
+- Building practical AI-assisted backend services and automation
+- Improving system design, testing, security, and observability
+- Leading collaborative product development at Motion Community
 
 <p align="center">
-  <strong>Open to collaboration on backend, AI/ML, and automation products.</strong>
+  <strong>Open to backend, AI/ML, and automation collaborations.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elmirbek-toktoraliev/">LinkedIn</a>
+  ·
+  <a href="https://t.me/elmirbek1">Telegram</a>
+  ·
+  <a href="https://www.instagram.com/elmirbek.toktoraliev/">Instagram</a>
+  ·
+  <a href="mailto:elmirbektoktoraliev06@gmail.com">Email</a>
 </p>
