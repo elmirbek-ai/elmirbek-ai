@@ -3,7 +3,7 @@
 <h3 align="center">Python Backend Developer · AI/ML Engineer · Team Lead</h3>
 
 <p align="center">
-  I build backend systems that turn complex business workflows into reliable, maintainable products.
+  I build backend systems and practical AI products for real business and public-sector workflows.
 </p>
 
 <p align="center">
@@ -20,27 +20,33 @@
 
 ## About me
 
-I am a backend-focused software engineer from Kyrgyzstan working with **Python, Django REST Framework, and FastAPI**.
+I am a backend-focused software engineer from Kyrgyzstan working with **Python, Django REST Framework, FastAPI, PostgreSQL, and Redis**.
 
-I build more than basic CRUD applications: my projects include role-based access, transactional business logic, real-time updates, documented APIs, machine-learning integrations, testing, and deployment infrastructure.
+I build beyond basic CRUD: role-based access, transactional business rules, documented APIs, real-time updates, automated tests, deployment infrastructure, and ML-backed services.
 
-As a **Team Lead at Motion Community**, I turn product requirements into technical tasks, coordinate developers, review implementation decisions, and help the team deliver real products.
+As a **Team Lead at Motion Community**, I translate product requirements into technical tasks, coordinate developers, review implementation decisions, and help teams ship working products.
 
-## Featured project
+## Selected work
 
-### [Dastorkon — QR restaurant ordering platform](https://github.com/elmirbek-ai/Dastorkon)
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Dastorkon](https://github.com/elmirbek-ai/Dastorkon) | End-to-end QR restaurant workflow for customers, waiters, kitchen staff, and administrators | Django, DRF, React, PostgreSQL, Redis, WebSockets, Docker |
+| KG Stat AI Assistant | Deterministic ingestion, normalization, monitoring, planning, and querying of official Kyrgyz Republic statistics | FastAPI, SQLAlchemy, PostgreSQL, Alembic, HTTPX |
+| [AgroAI 2.0](https://github.com/elmirbek-ai/AgroAI_2.0V) | Plant-disease inference combined with weather, authentication, shops, and products | FastAPI, TensorFlow, PostgreSQL, Redis |
+| [AgroAI Location Demo](https://github.com/elmirbek-ai/Location_demo) | Secure external-API integration, validation, caching, rate limiting, and automated tests | FastAPI, HTTPX, GitHub Actions |
+| [QR Generator](https://github.com/elmirbek-ai/QR-generator) | Small, tested, cross-platform Python utility with CI | Python, qrcode, unittest |
 
-Dastorkon brings customers, waiters, kitchen staff, and administrators into one connected restaurant workflow.
+> KG Stat AI Assistant is under active development in a private repository because it works with an evolving official-statistics data pipeline.
 
-| Product area | What I built |
-| --- | --- |
-| Customer | Bilingual QR menu, cart, ordering, live status tracking, and waiter calls without registration |
-| Staff | Separate Admin, Waiter, and Kitchen interfaces with role-based permissions |
-| Backend | Transactional table sessions, order lifecycle, price snapshots, validation, JWT authentication, and REST API |
-| Real-time | Authenticated WebSocket notifications with polling fallback |
-| Delivery | Tests, Swagger documentation, health checks, Docker Compose, Nginx, and Ubuntu deployment guides |
+## Featured project: Dastorkon
 
-**Stack:** Python · Django · DRF · React · PostgreSQL · Redis · WebSockets · Docker · Nginx
+[Dastorkon](https://github.com/elmirbek-ai/Dastorkon) connects the complete restaurant order lifecycle in one system.
+
+- Customers scan a table QR code, browse a Kyrgyz/Russian menu, order without registration, track status, and call a waiter.
+- Waiters manage shifts, table sessions, calls, orders, delivery, and customer-level order breakdowns.
+- Kitchen staff process live orders through a controlled status workflow.
+- Administrators manage restaurants, employees, menus, tables, settings, history, and analytics.
+- The backend uses transactional services, price snapshots, JWT authentication, role-based permissions, WebSockets with polling fallback, health checks, tests, and deployment documentation.
 
 ## Technical focus
 
@@ -48,22 +54,23 @@ Dastorkon brings customers, waiters, kitchen staff, and administrators into one 
 - **Databases:** PostgreSQL, MySQL, SQLite, Redis
 - **AI/ML:** PyTorch, TensorFlow, scikit-learn, NLP, computer vision
 - **Infrastructure:** Docker, Linux, Nginx, GitHub Actions
-- **Engineering:** REST APIs, JWT/OAuth, WebSockets, testing, documentation, deployment
+- **Engineering:** REST APIs, JWT/OAuth, WebSockets, testing, security, documentation, deployment
 
-## How I work
+## Engineering principles
 
-- Model business rules clearly before writing endpoints
-- Keep critical logic in tested backend services
-- Design APIs that frontend developers can integrate without guesswork
-- Treat security, observability, and deployment as part of the product
-- Choose technology for the problem—not for the résumé
+- Model business rules before writing endpoints.
+- Keep critical logic in tested services instead of controllers.
+- Make API contracts predictable for frontend developers.
+- Treat security, observability, and deployment as product requirements.
+- Keep AI-generated answers separate from deterministic source-of-truth data.
+- Choose technology for the problem, not for the résumé.
 
 ## Current focus
 
-- Preparing Dastorkon for production deployment
-- Building practical AI-assisted backend services and automation
-- Improving system design, testing, security, and observability
-- Leading collaborative product development at Motion Community
+- preparing Dastorkon for production deployment;
+- building a traceable assistant for official Kyrgyz Republic statistics;
+- improving system design, testing, security, and observability;
+- leading collaborative product development at Motion Community.
 
 <p align="center">
   <strong>Open to backend, AI/ML, and automation collaborations.</strong>
@@ -73,8 +80,6 @@ Dastorkon brings customers, waiters, kitchen staff, and administrators into one 
   <a href="https://www.linkedin.com/in/elmirbek-toktoraliev/">LinkedIn</a>
   ·
   <a href="https://t.me/elmirbek1">Telegram</a>
-  ·
-  <a href="https://www.instagram.com/elmirbek.toktoraliev/">Instagram</a>
   ·
   <a href="mailto:elmirbektoktoraliev06@gmail.com">Email</a>
 </p>
